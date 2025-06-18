@@ -74,6 +74,7 @@ public class TC01_LoginPageTest extends BaseClass {
 		logger.info("Entered password");
 		lp.clickLogin();
 		logger.info("Clicked on Login Button");
+		logger.info("test is sucessfull");
 		
 		String confmsg=lp.getConfirmationMsg();
 		Assert.assertEquals(confmsg, "Dashboard");
