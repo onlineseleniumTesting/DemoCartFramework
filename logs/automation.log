@@ -1,0 +1,19 @@
+2025-06-19 01:21:29 INFO  TC01_LoginPageTest:72 - Entered user name
+2025-06-19 01:21:29 INFO  TC01_LoginPageTest:74 - Entered password
+2025-06-19 01:21:32 INFO  TC01_LoginPageTest:76 - Clicked on Login Button
+2025-06-19 01:22:34 INFO  TC01_LoginPageTest:72 - Entered user name
+2025-06-19 01:22:35 INFO  TC01_LoginPageTest:74 - Entered password
+2025-06-19 01:22:36 INFO  TC01_LoginPageTest:76 - Clicked on Login Button
+2025-06-19 01:33:20 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [F:\New Batches\PallaviUSAFramework\DemoCartFramework\master.xml] otherwise TestNG may fail or not work as expected.
+2025-06-19 01:34:31 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [F:\New Batches\PallaviUSAFramework\DemoCartFramework\grid-docker.xml] otherwise TestNG may fail or not work as expected.
+2025-06-19 01:34:43 INFO  TC01_LoginPageTest:72 - Entered user name
+2025-06-19 01:34:43 INFO  TC01_LoginPageTest:74 - Entered password
+2025-06-19 01:34:43 INFO  TC01_LoginPageTest:76 - Clicked on Login Button
+2025-06-19 01:43:45 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [F:\New Batches\PallaviUSAFramework\DemoCartFramework\grid-docker.xml] otherwise TestNG may fail or not work as expected.
+2025-06-19 01:43:55 INFO  TC01_LoginPageTest:72 - Entered user name
+2025-06-19 01:43:56 INFO  TC01_LoginPageTest:74 - Entered password
+2025-06-19 01:43:56 INFO  TC01_LoginPageTest:76 - Clicked on Login Button
+2025-06-19 01:46:56 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [F:\New Batches\PallaviUSAFramework\DemoCartFramework\grid-docker.xml] otherwise TestNG may fail or not work as expected.
+2025-06-19 01:47:04 INFO  TC01_LoginPageTest:72 - Entered user name
+2025-06-19 01:47:05 INFO  TC01_LoginPageTest:74 - Entered password
+2025-06-19 01:47:05 INFO  TC01_LoginPageTest:76 - Clicked on Login Button

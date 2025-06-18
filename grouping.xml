@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Master suite">
+	<groups>
+		<run>
+			<include name="Sanity"/>
+			<include name="Regression"/>
+			<exclude name="Master"/>
+			<exclude name="DataDriven"/>	
+		</run>
+	</groups>
+
+	<test thread-count="5" name="Test">
+		<parameter name="os" value="windows"/>
+		<parameter name="browser" value="chrome"/>
+		<classes>
+			<class name="testCases.TC01_LoginPageTest"/>
+			<class name="testCases.TC02_ForgotPasswordTest"/>	
+		</classes>
+	</test>
+
+</suite>
